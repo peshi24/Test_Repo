@@ -12,7 +12,7 @@ VelGain = 0.3;
 %Reg = [2 0 2 0 2];             %The given initial sequence from the paper
 Reg = [0 1 2 0 1];
 
-TimeStep = 0.25;
+TimeStep = 0.5;
 
 Position(1) = 0;
 
